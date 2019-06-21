@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KidsLearningApp</string>
+    <string name="score">score</string>
+    <string name="_0">0</string>
+    <string name="capitle_of_pakistian_is">Capitle of Pakistian is</string>
+    <string name="urdu_was_declared_national_language_of_pakistan_in">Urdu was declared national language of Pakistan in:</string>
+    <string name="clear_canvas">Clear Canvas</string>
+</resources>
